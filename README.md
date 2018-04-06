@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 5, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Isabella Escobar)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this qssignment we learned how to use jQuery to display certain things when you click the headings on applications.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://isabellaesco.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create a new JavaScript file and use it to make a script file.)
+2. (I learned how to use the animate() method to use features like toggle and slow.)
+3. (I learned how to use the hover() function to change background colors.)
 
